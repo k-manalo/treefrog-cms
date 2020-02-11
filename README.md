@@ -18,7 +18,7 @@ You need to plan your application you are creating and if you are going to inclu
 
 4. Verify:
 
-firebase --version
+<pre><code>firebase --version</code></pre>
 
 5. Login and authorize Firebase:
 
